@@ -82,15 +82,7 @@ Otherwise, the student fails.
 - student_performance_report.csv: Processed results
 - README.md: Project description
 
-## 9. How to Run
-
-Keep main.py, functions.py and students.csv in the same directory.
-
-Run the following command:
-
-    python main.py
-
-## 10. Conclusion
+## 9. Conclusion
 
 The project analyzes student academic performance and generates
 useful summaries about individual students, overall class
@@ -101,8 +93,8 @@ concepts using NumPy and Pandas.
 
 ## 11. GitHub Repository
 
-Add your GitHub repository URL here after uploading the project.
+https://github.com/praniti14/Student-Performance-Analytics 
 
 ## 12. Author
 
-Department: Artificial Intelligence and Data Science (AI&DS)
+Praniti Shirsath
